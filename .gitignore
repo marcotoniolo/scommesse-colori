@@ -1,0 +1,6 @@
+*.db
+scommesse.db
+.streamlit/secrets.toml
+__pycache__/
+venv/
+.venv
